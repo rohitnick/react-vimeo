@@ -194,7 +194,7 @@ export interface VimeoProps {
   /**
    * The time in seconds at which to seek/jump the video to.
    */
-  currentTime?: number,
+  currentTime?: number
 
   /**
    * Specify the color of the video controls. Colors may be overridden by the
