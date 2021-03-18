@@ -16,21 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/u-wave/react-vimeo.git"
+    "url": "git+https://github.com/rohitnick/react-vimeo.git"
   },
-  "keywords": [
-    "youtube",
-    "react",
-    "player",
-    "react-component",
-    "video"
-  ],
+  "keywords": ["youtube", "react", "player", "react-component", "video"],
   "author": "Renée Kooi <renee@kooi.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/u-wave/react-vimeo/issues"
+    "url": "https://github.com/rohitnick/react-vimeo/issues"
   },
-  "homepage": "https://github.com/u-wave/react-vimeo#readme",
+  "homepage": "https://github.com/rohitnick/react-vimeo#readme",
   "dependencies": {
     "@types/react": "^17.0.0",
     "@types/vimeo__player": "^2.10.0",
